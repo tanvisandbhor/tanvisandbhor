@@ -36,8 +36,8 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web)](https://yourportfolio.com)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tanvi-sandbhor))
+
 
 ---
 
