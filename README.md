@@ -5,9 +5,9 @@
 
 ## ✨ About Me
 
-- 🎓 Third-year IT student
-- 🛠 Actively building and contributing to projects using React & Node.js
-- 🤝 Open to collaborations on innovative ideas
+- 🎓 Third-year IT student  
+- 🛠 Actively building and contributing to projects using React & Node.js  
+- 🤝 Open to collaborations on innovative ideas  
 - 🚀 Love blending creativity with technology to solve real-world problems
 
 ---
@@ -27,7 +27,6 @@
 
 ---
 
-
 ## 🏆 GitHub Stats
 
 ![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvisandbhor&show_icons=true&theme=radical)
@@ -36,9 +35,8 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tanvi-sandbhor)
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tanvi-sandbhor)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:tanvisandbhor17@gmail.com)
 
 ---
 
