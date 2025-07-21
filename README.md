@@ -36,6 +36,7 @@
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tanvi-sandbhor)  
+[![portfolio](https://img.shields.io/badge/-earth-blue?style=flat&logo=earth)]([https://linkedin.com/in/tanvi-sandbhor](https://tanvi-sandbhor-portfolio-4xis.vercel.app/))  
 
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://instagram.com/txnvviiii_)  
 [![Meta](https://img.shields.io/badge/-Meta-000000?style=flat&logo=meta)](https://www.facebook.com/yourusername)
