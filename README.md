@@ -1,4 +1,4 @@
-ta# 👋 Hi, I'm Tanvi!  
+ 👋 Hi, I'm Tanvi!  
 🌱 A passionate Web Developer & AI Enthusiast
 
 ---
