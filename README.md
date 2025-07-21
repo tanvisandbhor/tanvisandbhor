@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tanvi!  
+ta# 👋 Hi, I'm Tanvi!  
 🌱 A passionate Web Developer & AI Enthusiast
 
 ---
@@ -37,7 +37,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tanvi-sandbhor)  
 
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://instagram.com/yourusername)  
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://instagram.com/tanvviiii_)  
 [![Meta](https://img.shields.io/badge/-Meta-000000?style=flat&logo=meta)](https://www.facebook.com/yourusername)
 
 ---
