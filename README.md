@@ -27,13 +27,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
-
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-black?style=flat&logo=canva)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
